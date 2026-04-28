@@ -1,2 +1,5 @@
-ACC MAE RASE test score are calculated
-test data calculatedgit
+ACC MAE RASE 
+test score are calculatedgit
+
+
+r2
