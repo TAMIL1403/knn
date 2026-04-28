@@ -1,2 +1,2 @@
 ACC MAE RASE test score are calculated
-test data calculatedgit   abc
+test data calculatedgit   abc  map
